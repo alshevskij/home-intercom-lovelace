@@ -1,8 +1,18 @@
 # Home Intercom PTT / Home Intercom Lovelace
 
+[![GitHub stars](https://img.shields.io/github/stars/alshevskij/home-intercom-lovelace?style=flat-square)](https://github.com/alshevskij/home-intercom-lovelace/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/alshevskij/home-intercom-lovelace?style=flat-square)](https://github.com/alshevskij/home-intercom-lovelace/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/alshevskij/home-intercom-lovelace?style=flat-square)](https://github.com/alshevskij/home-intercom-lovelace/issues)
+
+<p align="center">
+  <a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=alshevskij&repository=home-intercom-lovelace&category=plugin">
+    <img src="https://img.shields.io/badge/Добавить%20в-Home%20Assistant-03A9F4?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Добавить в Home Assistant">
+  </a>
+</p>
+
 Логическое продолжение пользовательской интеграции [Home Intercom](https://github.com/mdj2812/home-intercom), которая позволяет превратить медиаплееры Home Assistant в своеобразные стационарные домашние телефоны-рации.
 
-Home Intercom PTT - это Lovelace-карточка, предназначенная для удобной голосовой связи между устройствами. Она дополняет стандартный интерфейс основной интеграции (который представлен отдельной веб-страницей, что мне показалось не совсем удобным) позволяя управлять домашней связью непосредственно с дашборда Home Assistant.
+Home Intercom PTT — это Lovelace-карточка, предназначенная для удобной голосовой связи между устройствами. Она дополняет стандартный интерфейс основной интеграции (который представлен отдельной веб-страницей, что мне показалось не совсем удобным), позволяя управлять домашней связью непосредственно с дашборда Home Assistant.
 
 Карточка устанавливается отдельно от основной интеграции и может быть добавлена на любой дашборд.
 

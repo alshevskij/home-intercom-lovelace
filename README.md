@@ -40,6 +40,10 @@ type: custom:home-intercom-ptt-card
 
 Остальные параметры и настройки внешнего вида доступны через визуальный редактор карточки.
 
+## Внешний вид карточки
+
+<img width="539" height="571" alt="visual" src="https://github.com/user-attachments/assets/6fdf5a4a-548f-423b-8218-69fc698ca37c" />
+
 ## Совместимость
 
 Home Intercom PTT является самостоятельным frontend-дополнением для Home Assistant. Карточка не заменяет и не изменяет основную интеграцию [Home Intercom](https://github.com/mdj2812/home-intercom), а использует предоставляемый ею Backend API для взаимодействия с устройствами.

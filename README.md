@@ -1,5 +1,7 @@
 # Home Intercom PTT / Home Intercom Lovelace
 
+[Русский](README.md) | [English](README.en.md)
+
 [![GitHub stars](https://img.shields.io/github/stars/alshevskij/home-intercom-lovelace?style=flat-square)](https://github.com/alshevskij/home-intercom-lovelace/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/alshevskij/home-intercom-lovelace?style=flat-square)](https://github.com/alshevskij/home-intercom-lovelace/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/alshevskij/home-intercom-lovelace?style=flat-square)](https://github.com/alshevskij/home-intercom-lovelace/issues)

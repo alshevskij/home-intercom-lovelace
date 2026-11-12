@@ -21,10 +21,13 @@ The card is installed separately from the main integration and can be added to a
 ## Features
 
 - Push-to-Talk: hold the button to record a voice message and release it to send.
+- Lock a recording by swiping left: stop it with a separate button, preview it, then send or cancel.
+- Custom device groups with configurable membership, icon, name, and default collapsed state.
+- An optional group-wide record/send button that can be hidden globally or per group.
 - Send messages to an individual room or to all rooms at once.
 - Display the availability of devices and rooms.
 - Visual configuration editor.
-- Flexible appearance settings: colors, sizes, labels, icons, and element layout.
+- Flexible appearance settings.
 - Glass-style design, glow effects, and recording animation.
 
 ## Requirements
